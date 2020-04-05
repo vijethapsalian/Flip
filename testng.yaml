@@ -1,0 +1,8 @@
+name: Suite
+tests:
+  - name: Test
+    classes:
+      - Test_NG.Sample
+      - Test_NG.Sample2
+      - Test_NG.Sample3
+
